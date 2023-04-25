@@ -7,27 +7,27 @@
 
             <div class="col-md-3">
                 <h3>QUICK LINES</h3>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="service.html">Services</a></li>
-                <li><a href="careers.html">Careers</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="service.php">Services</a></li>
+                <li><a href="careers.php">Careers</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
             </div>
 
             <div class="col-md-3">
                 <h3>OUR PRODUCTS</h3>
-                <li><a href="long-span.html">Long Span</a></li>
-                <li><a href="idt.html">IDT</a></li>
-                <li><a href="ibr.html">IBR</a></li>
-                <li><a href="corrugated-roofing.html">Corrugated Roofing</a></li>
+                <li><a href="long_span.php">Long Span</a></li>
+                <li><a href="idt.php">IDT</a></li>
+                <li><a href="ibr.php">IBR</a></li>
+                <li><a href="corrugated-roofing.php">Corrugated Roofing</a></li>
             </div>
 
             <div class="col-md-3">
                 <h3>CONTACT US</h3>
-                <li><a href="">Location</a></li>
-                <li><a href="">Location</a></li>
-                <li><a href="">Phone number</a></li>
-                <li><a href="">Phone number</a></li>
+                <li><a href=""> Adako Jachie Rd, </a></li>
+                <li><a href="">Ejisu</a></li>
+                <li><a href="tel:+233556120878">+233 55 612 0878</a></li>
+                <li><a href="tel:+233559558041">+233 55 955 8041</a></li>
             </div>
         </div>
     </footer>
