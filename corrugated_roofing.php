@@ -81,7 +81,8 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" style="color:#000;" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                    <i class="fas fa-hard-hat"></i> <span style="margin-left: 5%;">Lightweight</span>
+                                    <i class="fas fa-feather-alt"></i>
+                                    <span style="margin-left: 5%;">Lightweight</span>
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
