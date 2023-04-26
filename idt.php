@@ -48,7 +48,6 @@
                         <div class="full-image col-md-12">
                             <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="IDT 1" download>
                                 <img src="https://placehold.jp/800x500.png" alt="idt" width="100%">
-
                             </a>
                         </div>
                         <div class="row long-three">
