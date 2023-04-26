@@ -70,7 +70,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4" data-aos="fade-up-left">
                     <h2>
                         CORRUGATED ROOFING
                     </h2>
