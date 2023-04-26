@@ -26,7 +26,7 @@
                                     <li><a class="dropdown-item" href="long_span.php">Long Span</a></li>
                                     <li><a class="dropdown-item" href="ibr.php">IBR</a></li>
                                     <li><a class="dropdown-item" href="idt.php">IDT</a></li>
-                                    <li><a class="dropdown-item" href="corrugated_roofing.p">Corrugated Roofing</a></li>
+                                    <li><a class="dropdown-item" href="corrugated_roofing.php">Corrugated Roofing</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">

@@ -388,12 +388,12 @@ footer li a:hover {
 
 /* ABOUT US CSS */
 #about-hero {
-    background-image: url(./images/g_1.jpg);
+    background-image: url(./images/about-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
-    height: 85vh;
+    height: 70vh;
     padding: 0 10%;
 }
 
@@ -406,8 +406,11 @@ footer li a:hover {
     color: #F5F5F5;
 }
 
+
 .about-hero-text h1 {
     font-size: 60px;
+    width: 100%;
+    text-align: left;
 }
 
 .about-hero-details {
@@ -501,20 +504,135 @@ footer li a:hover {
     font-weight: 600;
 }
 
-.long-span{
+.long-span {
     margin-block: 50px;
     padding: 0 10%;
 }
-.full-image{
+
+.full-image {
     margin-bottom: 20px;
 }
-.long-three{
+
+.long-three {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
-.long-img{
+
+.long-img {
     width: 90%;
 }
+
+.call {
+    background-color: #eee;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+#ibr {
+    background-color: #D3D3D3;
+
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    width: 100%;
+    height: 80vh;
+    padding: 0 10%;
+}
+
+
+#idt {
+    background-color: #D3D3D3;
+
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    width: 100%;
+    height: 80vh;
+    padding: 0 10%;
+}
+
+
+#corrugated_roofing {
+    background-color: #D3D3D3;
+
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    width: 100%;
+    height: 80vh;
+    padding: 0 10%;
+}
+
+
+#contact-hero {
+    background-color: #D3D3D3;
+
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    width: 100%;
+    height: 80vh;
+    padding: 0 10%;
+}
+
+.map {
+    margin-block: 50px;
+    padding: 0 10%;
+}
+
+.contact-form {
+    margin-bottom: 50px;
+    padding: 0 10%;
+    background-color: #f8f8f8;
+    padding-block: 50px;
+}
+
+.form_group input {
+    width: 100%;
+    height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid #222;
+    border-radius: 5px;
+    padding: 0 2%;
+}
+
+.form_group textarea {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 20px;
+    border: 1px solid #222;
+    border-radius: 5px;
+    padding: 0 2%;
+}
+
+.me-form {
+    background-color: #ffffff;
+    padding: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+}
+
+.boxes {
+    background-color: #ffffff;
+    padding: 30px;
+    margin-left: 5%;
+    width: 92%;
+    margin-bottom: 30px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+}
+
+.submit {
+    padding: 15px 55px;
+    border-radius: 5px;
+    background-color: #00409a;
+    color: #fff;
+}
+
+.submit input {
+    width: 30%;
+    margin-left: 1%;
+}
+
 @media only screen and (max-width: 900px) {
     #hero {
         display: block;
@@ -585,5 +703,26 @@ footer li a:hover {
         width: 100%;
         margin: 0 auto;
         margin-bottom: 50px;
+    }
+
+    .long-span {
+        display: block;
+    }
+
+    .long-span img {
+        width: 100%;
+    }
+
+    .submit {
+        padding: 15px 55px;
+        border-radius: 5px;
+        background-color: #00409a;
+        color: #fff;
+        width: 100%;
+    }
+
+    .submit input {
+        width: 100%;
+        margin-left: 1%;
     }
 }
