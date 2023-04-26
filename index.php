@@ -51,7 +51,7 @@
             <div class="overflow-hidden">
                 <div class="request ">
                     <div class="row">
-                        <form action="" class="col-md-6">
+                        <form action="" class="col-md-6 footer">
                             <div class="row form_all">
                                 <div class="col-md-4 form_input">
                                     <input type="text" placeholder="Your name * " name="name" required>

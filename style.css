@@ -554,6 +554,7 @@ footer li a:hover {
 }
 
 
+
 #corrugated_roofing {
     background-color: #D3D3D3;
 
@@ -725,5 +726,13 @@ footer li a:hover {
     .submit input {
         width: 100%;
         margin-left: 1%;
+    }
+    .footer{
+        display: block;
+        width: 100%;
+        
+    }
+    .ls{
+        width: 100%;
     }
 }

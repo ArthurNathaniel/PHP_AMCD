@@ -42,10 +42,10 @@
 
 
     <section>
-      <div class="long-span row gy-5">
-        <div class="col-md-8">
-          <div class="display-images">
-            <div class="full-image col-md-12">
+      <div class="long-span row gy-5" >
+        <div class="col-md-8 ls">
+          <div class="display-images" >
+            <div class="full-image col-md-12" >
               <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Long Span Roofing" download>
                 <img src="https://placehold.jp/800x500.png" alt="long span roofing" width="100%">
 
@@ -70,7 +70,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4" style="margin-top: 50px;" data-aos="fade-up-left">
+        <div class="col-md-4 ls" style="margin-top: 50px;" data-aos="fade-up-left">
           <h2>LONG SPAN ROOFING</h2>
           <p>
             Long span roofing refers to roofing materials that can cover a large area without the need for intermediate support columns or beams. Some of the benefits of long span roofing include:

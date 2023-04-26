@@ -1,6 +1,6 @@
 <footer>
-    <div class="row gy-5">
-        <div class="col-md-3">
+    <div class="row gy-5 footer">
+        <div class="col-md-3 footer">
             <img src="images/footer.png" alt="" style="width: 50%;">
             <h5 class="yo">FOLLOW US ON:</h5>
 
@@ -55,7 +55,7 @@
                 text-shadow: 0px 2px 9px #0101017d;
             }
         </style>
-        <div class="col-md-3">
+        <div class="col-md-3 footer">
             <h3>QUICK LINES</h3>
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
@@ -63,7 +63,7 @@
             <li><a href="contact.php">Contact Us</a></li>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 footer">
             <h3>OUR PRODUCTS</h3>
             <li><a href="long_span.php">Long Span</a></li>
             <li><a href="idt.php">IDT</a></li>
@@ -71,7 +71,7 @@
             <li><a href="corrugated-roofing.php">Corrugated Roofing</a></li>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 footer">
             <h3>CONTACT US</h3>
             <li><a href="https://goo.gl/maps/boxVTAfqB1mNFXEJ6"> <i class="fas fa-map-marker-alt"></i>
                     Adako Jachie Junction, </a></li>
