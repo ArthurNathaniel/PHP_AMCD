@@ -46,14 +46,14 @@
                 <div class="col-md-8">
                     <div class="display-images">
                         <div class="full-image col-md-12">
-                            <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Corrugated Roofing" download>
+                            <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Corrugated Roofing 1" download>
                                 <img src="https://placehold.jp/800x500.png" alt="corrugated roofing" width="100%">
 
                             </a>
                         </div>
                         <div class="row long-three">
                             <div class="col-md-4 long-img">
-                                <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Corrugated Roofing" download>
+                                <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Corrugated Roofing 2" download>
                                     <img src="https://placehold.jp/250x250.png" alt="corrugated roofing" width="100%">
                                 </a>
                             </div>
