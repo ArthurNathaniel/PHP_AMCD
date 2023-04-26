@@ -53,7 +53,7 @@
                         </div>
                         <div class="row long-three">
                             <div class="col-md-4 long-img">
-                                <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="IDT" download>
+                                <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="IDT 2" download>
                                     <img src="https://placehold.jp/250x250.png" alt="idt" width="100%">
                                 </a>
                             </div>
