@@ -42,14 +42,14 @@
 
             }
 
-            h5 {
+            .yo {
                 margin-top: 15px;
                 color: #fff;
                 font-weight: 600;
                 text-shadow: 0px 2px 9px #0101017d;
             }
 
-            h5:hover {
+            .yo:hover {
                 color: antiquewhite;
                 font-weight: 900;
                 text-shadow: 0px 2px 9px #0101017d;
