@@ -42,7 +42,7 @@
 
 
         <section>
-            <div class="long-span row gy-5">
+            <div class="long-span row gy-5" data-aos="fade-up-left">
                 <div class="col-md-8">
                     <div class="display-images">
                         <div class="full-image col-md-12">
