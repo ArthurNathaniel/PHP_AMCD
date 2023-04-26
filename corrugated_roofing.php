@@ -81,7 +81,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" style="color:#000;" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                    <i class="fas fa-feather-alt"></i>
+                                    <i class="fas fa-toolbox"></i>
                                     <span style="margin-left: 5%;">Lightweight</span>
                                 </button>
                             </h2>
@@ -108,7 +108,7 @@
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" style="color:#000;" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                                    <i class="fas fa-hard-hat"></i> <span style="margin-left: 5%;"> Ease of installation</span>
+                                    <i class="fas fa-tools"></i> <span style="margin-left: 5%;"> Ease of installation</span>
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
