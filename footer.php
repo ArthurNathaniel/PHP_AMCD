@@ -2,7 +2,7 @@
     <div class="row gy-5">
         <div class="col-md-3">
             <img src="images/footer.png" alt="" style="width: 50%;">
-            <h5 style="margin-top:15px; color:#fff; font-weight:900; text-shadow: 0px 2px 9px #0101017d;">FOLLOW US ON:</h5>
+            <h5 class="yo">FOLLOW US ON:</h5>
 
             <div class="media">
                 <div class="m-media">
@@ -33,13 +33,26 @@
             .m-media a {
                 /* font-size: 30px; */
                 text-shadow: 0px 2px 9px #0101017d;
-            
+
 
             }
 
             .m-media a:hover {
                 color: antiquewhite;
 
+            }
+
+            h5 {
+                margin-top: 15px;
+                color: #fff;
+                font-weight: 600;
+                text-shadow: 0px 2px 9px #0101017d;
+            }
+
+            h5:hover {
+                color: antiquewhite;
+                font-weight: 900;
+                text-shadow: 0px 2px 9px #0101017d;
             }
         </style>
         <div class="col-md-3">
