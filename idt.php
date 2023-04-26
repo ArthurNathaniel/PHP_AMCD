@@ -43,7 +43,7 @@
 
         <section>
             <div class="long-span row gy-5">
-                <div class="col-md-8">
+                <div class="col-md-8 ls">
                     <div class="display-images">
                         <div class="full-image col-md-12">
                             <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="IDT 1" download>
@@ -69,7 +69,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4" style="margin-top: 50px;" data-aos="fade-up-left">
+                <div class="col-md-4 ls" style="margin-top: 50px;" data-aos="fade-up-left">
                     <h2>IDT</h2>
                     <p>
                         IDT roofing is a type of roofing that is weather-resistant, durable, aesthetically appealing, low maintenance, and easy to install. </p>

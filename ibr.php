@@ -43,7 +43,7 @@
 
         <section>
             <div class="long-span row">
-                <div class="col-md-8 gy-5">
+                <div class="col-md-8 gy-5 ls">
                     <div class="display-images">
                         <div class="full-image col-md-12">
                             <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="IBR 1" download>
@@ -70,7 +70,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4" style="margin-top: 50px;" data-aos="fade-up-left">
+                <div class="col-md-4 ls" style="margin-top: 50px;" data-aos="fade-up-left">
                     <h2>IBR</h2>
                     <p>
                         IBR roofing sheets are made of galvanized or pre-painted steel and have a trapezoidal shape with a fluted profile. </p>
