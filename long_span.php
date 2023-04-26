@@ -70,7 +70,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4" style="margin-top: 50px;">
+        <div class="col-md-4" style="margin-top: 50px;" data-aos="fade-up-left">
           <h2>LONG SPAN ROOFING</h2>
           <p>
             Long span roofing refers to roofing materials that can cover a large area without the need for intermediate support columns or beams. Some of the benefits of long span roofing include:
@@ -119,7 +119,7 @@
               </div>
             </div>
           </div>
-          <div class="col-12 call">
+          <div class="col-12 call" data-aos="fade-up-left">
             <h5>Get a Durable and Beautiful Roof Today</h5>
             <p>
               At Agyeiwaa Memorial Roofing, we specialize in constructing top-quality roofs that are not only sturdy and durable but also aesthetically pleasing. Contact us now to get started on your roofing project.
@@ -130,7 +130,7 @@
       </div>
     </section>
 
-    
+
 
 
 
