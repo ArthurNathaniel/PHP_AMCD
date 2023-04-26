@@ -634,7 +634,7 @@ footer li a:hover {
     margin-left: 1%;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1200px) {
     #hero {
         display: block;
     }
