@@ -70,7 +70,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4" style="margin-top: 50px;">
+                <div class="col-md-4" style="margin-top: 50px;" data-aos="fade-up-left">
                     <h2>IBR</h2>
                     <p>
                         IBR roofing sheets are made of galvanized or pre-painted steel and have a trapezoidal shape with a fluted profile. </p>
@@ -116,7 +116,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-12 call">
+                    <div class="col-12 call" data-aos="fade-up-left">
                         <h5>Get a Durable and Beautiful Roof Today</h5>
                         <p>
                             At Agyeiwaa Memorial Roofing, we specialize in constructing top-quality roofs that are not only sturdy and durable but also aesthetically pleasing. Contact us now to get started on your roofing project.
