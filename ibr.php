@@ -46,7 +46,7 @@
                 <div class="col-md-8 gy-5">
                     <div class="display-images">
                         <div class="full-image col-md-12">
-                            <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="IBR" download>
+                            <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="IBR 1" download>
                                 <img src="https://placehold.jp/800x500.png" alt="ibr" width="100%">
 
                             </a>
