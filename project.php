@@ -30,39 +30,43 @@
                   <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
                       <div class="project-image3"></div>
                   </a>
+
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+
               </div>
           </section>
 
           <style>
-              .project {
-                  display: grid;
-                  grid-template-columns: 1fr 1fr 1fr;
-                  padding: 0 5%;
-                  /* gap: 10px; */
-                  margin-block: 50px;
-              }
 
-              .project-image1 {
-                  border: 1px solid;
-                  height: 450px;
-                  width: 95%;
-                  background-image: url(./images/about.png);
-                  background-position: center;
-                  background-size: cover;
-                  background-repeat: no-repeat;
-              }
-
-              .project-image2 {
-                  border: 1px solid;
-                  height: 450px;
-                  width: 95%;
-              }
-
-              .project-image3 {
-                  border: 1px solid;
-                  height: 450px;
-                  width: 95%;
-              }
           </style>
 
 
