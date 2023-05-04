@@ -19,28 +19,72 @@
               </div>
           </div>
 
+          <section>
+              <div class="project">
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company " download>
+                      <div class="project-image1"></div>
+                  </a>
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image2"></div>
+                  </a>
+                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image3"></div>
+                  </a>
+              </div>
+          </section>
+
+          <style>
+              .project {
+                  display: grid;
+                  grid-template-columns: 1fr 1fr 1fr;
+                  padding: 0 5%;
+                  /* gap: 10px; */
+                  margin-block: 50px;
+              }
+
+              .project-image1 {
+                  border: 1px solid;
+                  height: 450px;
+                  width: 95%;
+                  background-image: url(./images/about.png);
+                  background-position: center;
+                  background-size: cover;
+                  background-repeat: no-repeat;
+              }
+
+              .project-image2 {
+                  border: 1px solid;
+                  height: 450px;
+                  width: 95%;
+              }
+
+              .project-image3 {
+                  border: 1px solid;
+                  height: 450px;
+                  width: 95%;
+              }
+          </style>
 
 
-
-              <?php include 'call_to_action.php'; ?>
-
-
-              <?php include 'footer.php'; ?>
-
-          </div>
-          <!--Animate on Scroll-->
-          <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-          <script>
-              AOS.init();
-          </script>
-
-          <!--Lightbox JS-->
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-          <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+          <!-- <?php include 'project-action.php'; ?> -->
 
 
-          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous">
-          </script>
+          <?php include 'footer.php'; ?>
+
+      </div>
+      <!--Animate on Scroll-->
+      <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+      <script>
+          AOS.init();
+      </script>
+
+      <!--Lightbox JS-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.1/js/lightbox.min.js"></script>
+
+
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous">
+      </script>
   </body>
 
   </html>
