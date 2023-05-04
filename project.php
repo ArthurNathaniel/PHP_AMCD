@@ -70,7 +70,6 @@
           </style>
 
 
-          <!-- <?php include 'project-action.php'; ?> -->
 
 
           <?php include 'footer.php'; ?>
