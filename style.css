@@ -22,8 +22,9 @@ body {
 
 .nav-link {
 
-    color: #013782;
-    
+    color: #fff;
+        text-shadow: 0px 2px 9px #0101017d;
+
 
 }
 
@@ -533,11 +534,10 @@ footer li a:hover {
 }
 
 #ibr {
-    background-color: #D3D3D3;
-
-    /* background-size: cover; */
+background-image: url(./images/ibr-bg.png);
+    background-size: cover;
     background-repeat: no-repeat;
-    /* background-position: center; */
+    background-position: center;
     width: 100%;
     height: 80vh;
     padding: 0 10%;
@@ -546,10 +546,10 @@ footer li a:hover {
 
 #idt {
     background-color: #D3D3D3;
-
-    /* background-size: cover; */
+background-image: url(./images/idt-bg.png);
+    background-size: cover;
     background-repeat: no-repeat;
-    /* background-position: center; */
+    background-position: center;
     width: 100%;
     height: 80vh;
     padding: 0 10%;
@@ -558,11 +558,10 @@ footer li a:hover {
 
 
 #corrugated_roofing {
-    background-color: #D3D3D3;
-
-    /* background-size: cover; */
+background-image: url(./images/corrugated-bg.png);
+    background-size: cover;
     background-repeat: no-repeat;
-    /* background-position: center; */
+    background-position: center;
     width: 100%;
     height: 80vh;
     padding: 0 10%;
@@ -571,7 +570,7 @@ footer li a:hover {
 
 #contact-hero {
     background-color: #D3D3D3;
-background-image: url(./images/contact-bg.jpg);
+    background-image: url(./images/contact-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -582,7 +581,7 @@ background-image: url(./images/contact-bg.jpg);
 
 #project-hero {
     background-color: #D3D3D3;
-    background-image: url(./images/contact-bg.jpg);
+    background-image: url(./images/project-bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -651,46 +650,143 @@ background-image: url(./images/contact-bg.jpg);
 
 /* Project  */
 
-  .project {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      padding: 0 5%;
-      /* gap: 10px; */
-      margin-block: 50px;
-  }
+.project {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 0 5%;
+    /* gap: 10px; */
+    margin-block: 50px;
+}
 
-  .project-image1 {
-      border: 1px solid;
-      height: 450px;
-      width: 95%;
-      background-image: url(./images/about.png);
-      background-position: center;
-      background-size: cover;
-      background-repeat: no-repeat;
-  }
+.project-image1 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-bottom: 50px;
+}
 
-  .project-image2 {
-      border: 1px solid;
-      height: 450px;
-      width: 95%;
-      background-image: url();
-      background-position: center;
-      background-size: cover;
-      background-repeat: no-repeat;
-      margin-bottom: 50px;
-  }
+.project-image2 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-bottom: 50px;
+}
 
-  .project-image3 {
-      border: 1px solid;
-      height: 450px;
-      width: 95%;
-      background-image: url();
-      background-position: center;
-      background-size: cover;
-      background-repeat: no-repeat;
-      margin-bottom: 50px;
-  }
+.project-image3 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
 
+.project-image4 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.project-image5 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product5.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.project-image6 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product6.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.project-image7 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product7.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.project-image8 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product8.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.project-image9 {
+    height: 450px;
+    width: 95%;
+    background-image: url(./images/product9.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.media {
+    display: flex;
+
+}
+
+.m-media {
+    width: 15%;
+}
+
+.m-media a {
+    text-shadow: 0px 2px 9px #0101017d;
+}
+
+.m-media a:hover {
+    color: antiquewhite;
+
+}
+
+.yo {
+    margin-top: 15px;
+    color: #fff;
+    font-weight: 600;
+    text-shadow: 0px 2px 9px #0101017d;
+}
+
+.yo:hover {
+    color: antiquewhite;
+    font-weight: 900;
+    text-shadow: 0px 2px 9px #0101017d;
+}
 
 @media only screen and (max-width: 1200px) {
     #hero {
@@ -799,9 +895,79 @@ background-image: url(./images/contact-bg.jpg);
         text-align: center;
     }
 
-    .media  {
+    .media {
         display: flex;
         justify-content: center;
         text-align: center;
+    }
+
+    .project {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+
+    .project-image1 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image2 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image3 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image4 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image5 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image6 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image7 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image8 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .project-image9 {
+        display: block;
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 50px;
     }
 }

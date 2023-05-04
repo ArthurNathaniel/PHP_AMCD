@@ -21,46 +21,37 @@
 
           <section>
               <div class="project">
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company " download>
+                  <a href="images/product1.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company " download>
                       <div class="project-image1"></div>
                   </a>
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                  <a href="images/product2.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
                       <div class="project-image2"></div>
                   </a>
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                  <a href="images/product3.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
                       <div class="project-image3"></div>
                   </a>
 
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
+                  <a href="images/product4.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image4"></div>
                   </a>
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
+                  <a href="images/product5.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image5"></div>
                   </a>
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
-                  </a>
-
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
-                  </a>
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
-                  </a>
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
+                  <a href="images/product6.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image6"></div>
                   </a>
 
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
+                  <a href="images/product7.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image7"></div>
+                  </a>
+                  <a href="images/product8.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image8"></div>
+                  </a>
+                  <a href="images/product9.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
+                      <div class="project-image9"></div>
                   </a>
 
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
-                  </a>
-                  <a href="images/about-bg.jpg" data-lightbox="gallery" data-title="Agyeiwaa Memorial Roofing Company" download>
-                      <div class="project-image3"></div>
-                  </a>
+                  
 
               </div>
           </section>

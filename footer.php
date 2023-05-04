@@ -20,47 +20,13 @@
             </div>
 
         </div>
-        <style>
-            .media {
-                display: flex;
-
-            }
-
-            .m-media {
-                width: 15%;
-            }
-
-            .m-media a {
-                /* font-size: 30px; */
-                text-shadow: 0px 2px 9px #0101017d;
-
-
-            }
-
-            .m-media a:hover {
-                color: antiquewhite;
-
-            }
-
-            .yo {
-                margin-top: 15px;
-                color: #fff;
-                font-weight: 600;
-                text-shadow: 0px 2px 9px #0101017d;
-            }
-
-            .yo:hover {
-                color: antiquewhite;
-                font-weight: 900;
-                text-shadow: 0px 2px 9px #0101017d;
-            }
-        </style>
+        
         <div class="col-md-3 footer">
             <h3>QUICK LINES</h3>
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About</a></li>
             <li><a href="services.php">Services</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
+            <li><a href="project.php">Projects</a></li>
         </div>
 
         <div class="col-md-3 footer">
@@ -68,7 +34,7 @@
             <li><a href="long_span.php">Long Span</a></li>
             <li><a href="idt.php">IDT</a></li>
             <li><a href="ibr.php">IBR</a></li>
-            <li><a href="corrugated-roofing.php">Corrugated Roofing</a></li>
+            <li><a href="corrugated_roofing.php">Corrugated Roofing</a></li>
         </div>
 
         <div class="col-md-3 footer">
