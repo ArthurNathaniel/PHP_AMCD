@@ -42,29 +42,29 @@
 
 
     <section>
-      <div class="long-span row gy-5" >
+      <div class="long-span row gy-5">
         <div class="col-md-8 ls">
-          <div class="display-images" >
-            <div class="full-image col-md-12" >
-              <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Long Span Roofing" download>
-                <img src="https://placehold.jp/800x500.png" alt="long span roofing" width="100%">
+          <div class="display-images">
+            <div class="full-image col-md-12">
+              <a href="images/long-1.jpg" data-lightbox="gallery" data-title="Long Span Roofing" download>
+                <img src="images/long-1.jpg" alt="long span roofing" width="100%">
 
               </a>
             </div>
             <div class="row long-three">
               <div class="col-md-4 long-img">
-                <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Long Span Roofing" download>
-                  <img src="https://placehold.jp/250x250.png" alt="long span roofing" width="100%">
+                <a href="https://cdn.discordapp.com/attachments/1063445259750752256/1102984919073951875/IMG_2770_1.jpg" data-lightbox="gallery" data-title="Long Span Roofing" download>
+                  <img src="images/long-2.jpg" alt="long span roofing" width="100%">
                 </a>
               </div>
               <div class="col-md-4 long-img">
-                <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Long Span Roofing" download>
-                  <img src="https://placehold.jp/250x250.png" alt="long span roofing" width="100%">
+                <a href="https://cdn.discordapp.com/attachments/1063445259750752256/1103296840780238868/IMG_2667.jpg" data-lightbox="gallery" data-title="Long Span Roofing" download>
+                  <img src="images/long-3.jpg" alt="long span roofing" width="100%">
                 </a>
               </div>
               <div class="col-md-4 long-img">
-                <a href="https://placehold.jp/800x500.png" data-lightbox="gallery" data-title="Long Span Roofing" download>
-                  <img src="https://placehold.jp/250x250.png" alt="long span roofing" width="100%">
+                <a href="https://cdn.discordapp.com/attachments/1063445259750752256/1103296839542919268/IMG_2582.jpg" data-lightbox="gallery" data-title="Long Span Roofing" download>
+                  <img src="images/long-4.jpg" alt="long span roofing" width="100%">
                 </a>
               </div>
             </div>

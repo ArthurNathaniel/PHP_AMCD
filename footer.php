@@ -1,5 +1,5 @@
 <footer>
-    <div class="row gy-5 footer">
+    <div class="row gy-5 ne footer">
         <div class="col-md-3 footer">
             <img src="images/footer.png" alt="" style="width: 50%;">
             <h5 class="yo">FOLLOW US ON:</h5>
