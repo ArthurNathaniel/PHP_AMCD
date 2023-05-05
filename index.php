@@ -104,7 +104,7 @@
                   alt="Long-span-roofing-sheet"
                 />
                 <div class="up">
-                  <img src="images/roof.png" alt="" style="width: 44px" />
+                  <img src="images/roof.png" alt="long-span-roofing-sheet" style="width: 44px" />
                 </div>
                 <div class="card-body">
                   <p class="card-text">
@@ -123,7 +123,7 @@
                 />
                 <div class="up">
                   <!-- <i class="fas fa-network-wired"></i> -->
-                  <img src="images/roof.png" alt="" style="width: 44px" />
+                  <img src="images/roof.png" alt="ibr-roofing-sheet" style="width: 44px" />
                 </div>
                 <div class="card-body">
                   <p class="card-text">
@@ -140,7 +140,7 @@
                   alt="idt-roofing-sheet"
                 />
                 <div class="up">
-                  <img src="images/roof.png" alt="" style="width: 44px" />
+                  <img src="images/roof.png" alt="idt-roofing-sheet" style="width: 44px" />
                 </div>
                 <div class="card-body">
                   <p class="card-text">
