@@ -92,13 +92,13 @@ body {
 }
 
 .box:hover {
-    padding-block: 50px;
+    /* padding-block: 50px; */
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     border-radius: 5px;
 }
 
 .box-:hover {
-    padding-block: 50px;
+    /* padding-block: 50px; */
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
     border-radius: 5px;
 }
@@ -653,7 +653,7 @@ background-image: url(./images/corrugated-bg.png);
 .project {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 0 5%;
+    /* padding: 0 5%; */
     /* gap: 10px; */
     margin-block: 50px;
 }
@@ -779,13 +779,20 @@ background-image: url(./images/corrugated-bg.png);
     margin-top: 15px;
     color: #fff;
     font-weight: 600;
-    text-shadow: 0px 2px 9px #0101017d;
+    /* text-shadow: 0px 2px 9px #0101017d; */
 }
 
 .yo:hover {
     color: antiquewhite;
     font-weight: 900;
     text-shadow: 0px 2px 9px #0101017d;
+}
+
+.home-contact{
+    background-color: #f9f9f9;
+    padding: 0 10%;
+    padding-block: 40px;
+    margin-bottom: 50px;
 }
 
 @media only screen and (max-width: 1200px) {
@@ -969,5 +976,13 @@ background-image: url(./images/corrugated-bg.png);
         width: 100%;
         margin: 0 auto;
         margin-top: 50px;
+    }
+    .home-contact iframe{
+        padding-block:50px ;
+    }
+    .home-contact-{
+        display: block;
+        width: 100%;
+        margin: 0 auto;
     }
 }
